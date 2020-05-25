@@ -1,0 +1,16 @@
+﻿product_id,sku_id,sku_name,quantity_per_product_unit,units_measured_in
+1,100001,Coffee powder,1,sachets
+1,100002,Sugar,1,cubes
+1,100003,Milk,250,ml
+2,100004,Karel Cookies,2,cookies
+3,100005,Cabbage,100,grams
+3,100006,Tomato,100,grams
+3,100007,Onion,100,grams
+3,100008,Paneer,100,grams
+4,100009,Vodka,30,ml
+4,100010,Tequila,30,ml
+4,100011,Orange juice,100,ml
+4,100002,Sugar,2,cubes
+5,100012,Bread,2,slices
+5,100013,Eggs,2,eggs
+5,100011,Orange juice,200,ml
