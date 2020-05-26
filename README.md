@@ -8,3 +8,5 @@ Details about the Inputs for the program (sample files provided - you can take i
 3. Initial inventory status
 
 A big thanks to Mehran and Chris from Stanford, the Code in Place and CS106A teaching staff, section leaders and to you all from the ed community for making this happen.
+
+Short overview of the program: https://www.youtube.com/watch?v=kLN69PYbyYM
